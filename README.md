@@ -19,5 +19,6 @@ This should contain all the documentation we have
 ## Kundenmeetings mit StuV
 
 - [OneNotes Mitschrift: Protokoll - Vorstellung und Diskussion des Lastenheftes](https://www.onenote.com/webapp/pages?token=Wy1AsQeWpmohyNrR7JNv16z3qcfTm6JjdzVEfbuhzHpCaZqNJxH2dmXdhVVjig45G99_tK1-yDhWbLQKV-cEedsUnJEr-xsP0&id=636397654367240548)
+- [PDF Protokoll: Vorstellung und Diskussion des Lastenheftes](https://github.com/NoxAG/NewNox-Documentation/blob/master/Protokoll_Kundengespr%C3%A4ch_Lastenheft_NoxAG_StuV.pdf)
 
 
