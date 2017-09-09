@@ -5,7 +5,7 @@ This should contain all the documentation we have
 - [GoogleDoc: Tabelle für Aufwandserfassung](https://docs.google.com/spreadsheets/d/1ZnIEEkYAl-hF7z_5qyOUNBD4HLpYr0k97fRGbIt9RZg/edit#gid=0)
 
 ## Lastenheft NoxAG (NewNox)
--[Github-File: to be added]()
+- [Github-File: to be added]()
 
 ## Pflichtenheft
 - [GoogleDoc: Pflichtenheft](https://docs.google.com/document/d/1aVdFOLl6mDALGBg8089w2Vte5LnuA8tHzbgDyM3utoM/edit)
@@ -18,6 +18,6 @@ This should contain all the documentation we have
 
 ## Kundenmeetings mit StuV
 
-[OneNotes Mitschrift: Protokoll - Vorstellung und Diskussion des Lastenheftes](https://www.onenote.com/webapp/pages?token=Wy1AsQeWpmohyNrR7JNv16z3qcfTm6JjdzVEfbuhzHpCaZqNJxH2dmXdhVVjig45G99_tK1-yDhWbLQKV-cEedsUnJEr-xsP0&id=636397654367240548)
+- [OneNotes Mitschrift: Protokoll - Vorstellung und Diskussion des Lastenheftes](https://www.onenote.com/webapp/pages?token=Wy1AsQeWpmohyNrR7JNv16z3qcfTm6JjdzVEfbuhzHpCaZqNJxH2dmXdhVVjig45G99_tK1-yDhWbLQKV-cEedsUnJEr-xsP0&id=636397654367240548)
 
 
